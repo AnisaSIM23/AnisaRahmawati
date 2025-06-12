@@ -1,6 +1,6 @@
-Nama: Fadel Muhammad
-NIM: 1223150123
-Kelas: SIM23(SH)
+Nama : Anisa Rahmawati
+NIM: 1223150027
+Kelas: SI 23 P SIM
 
 # Login
 admin : 123456
